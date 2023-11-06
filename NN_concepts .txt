@@ -1,0 +1,47 @@
+
+Intelligence:
+
+In the context of biological entities, it refers to human intelligence.
+
+In the context of machines, it refers to artificial intelligence (AI).
+
+Artificial Intelligence (AI): A broad field encompassing techniques that empower machines to simulate human behavior. Originating around 1950.
+
+Machine Learning (ML): A subset of AI that allows computers to learn from data. Developed in the 1980s.
+
+Deep Learning: A subset of ML that leverages neural networks to extract patterns from data. Emerged around 2010.
+
+Deep Learning:
+
+Deep learning is a subset of machine learning that employs multiple layers of neurons to process data. Its primary objective is to create a model capable of automatically learning intricate patterns from data and making precise predictions or decisions.
+
+The architecture of deep learning typically includes:
+
+Input layer -> Hidden layer 1 -> Hidden layer 2 -> ... -> Output layer
+
+In traditional Machine Learning (ML), patterns are manually engineered, and values are set through manual input, often involving the careful engineering of feature combinations. ML is effective with small data.
+
+Deep learning, on the other hand, automatically engineers features by selecting the best ones from the given inputs. Neural networks (NN) in deep learning excel with large datasets.
+
+A deep learning network consists of interconnected layers, each transforming the input and passing it to the next layer. The final layer produces the output, which is compared to the expected output label to assess the network's performance. The network is adjusted iteratively to minimize the difference between predicted and true output labels, continuing until it can make accurate predictions on new, unseen data.
+
+
+Why Deep Learning:
+
+Deep learning offers several advantages, including:
+
+Implicit Rule Learning: Deep learning models are not explicitly programmed with a predefined set of rules or algorithms. Instead, they learn to recognize patterns and make predictions by adjusting the connections between the neurons in the network. This allows them to adapt and evolve as they receive more data.
+
+Direct Feature Learning: Deep learning can learn underlying features directly from the data. It can automatically identify and extract relevant features, eliminating the need for extensive manual feature engineering. This capability is particularly beneficial when working with complex, high-dimensional data.
+
+Hierarchical Feature Extraction: Deep learning operates in a hierarchical manner, where lower layers of the network learn simple features, and higher layers combine these simple features to recognize more complex patterns. This hierarchical feature extraction is well-suited for tasks that involve multiple levels of abstraction.
+
+
+Neural Networks:
+
+In neural networks, the term "neural" refers to the building blocks of the network, which are inspired by how biological neurons function, mimicking the basic principles of the human brain and how information is processed.
+
+These building blocks, often referred to as neurons, can also be known as perceptions, nodes, or units. They are the fundamental elements in a neural network. A typical neural network operates in the following sequence:
+
+Input -> Weights -> Summation (of weights) -> Activation (activation function) -> Output (resulting output)
+
